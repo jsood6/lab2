@@ -11,20 +11,12 @@
 
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
-body {
-     border: 1px dotted gray;
-     padding: 20px;
-}
-
-h1{
-     color:purple;
-}
-
 
 
 .jumbotron {
 	position: relative;
 	background: none;
+     color:#122B5E; /*#E8A2A3 */
 }
 
 .jumbotron:after {
